@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+yfinance
+tavily-python
+google-genai
+pydantic
+python-dotenv

@@ -1,0 +1,41 @@
+# Node
+node_modules/
+dist/
+build/
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+.pytest_cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+_override.tf
+_override.tf.json
+.terraformrc
+terraform.rc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+app_source.zip
+*.pem
+infra/sentiment_monitor_deploy_key.pem
+backend/.env
+frontend/.env
+.env
