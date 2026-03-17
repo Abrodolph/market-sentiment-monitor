@@ -73,7 +73,3 @@ All traffic is routed through a single entry point (Port 80) using Nginx, which 
 4. Access the UI at `http://localhost:80`.
 
 ---
-
-## 👨‍💻 Author
-**[Your Name/Project ID: project-a5506ace-ab0c-4636-b97]**  
-*Developed as part of a placement evaluation for high-performance cloud application development.*
